@@ -21,7 +21,7 @@ body {
   font-family: "Orbitron", sans-serif;
   color: #fff;
   body 
-  padding-top: 100px; /* adjust based on your header height */
+  padding-top: 180px; /* adjust based on your header height */
 }
 
 body::before {
