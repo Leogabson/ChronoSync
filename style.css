@@ -56,12 +56,6 @@ body::before {
   color: #00ffff;
 }
 
-.signs {
-  font-size: 24px;
-  letter-spacing: 10px;
-  color: #aaa;
-}
-
 .nav-links {
   margin-top: 10px;
   display: flex;
@@ -162,9 +156,8 @@ body::before {
 
 .footer {
   text-align: center;
-  font-size: 30px;
+  font-size: 10px;
   margin-top: 50px;
-  letter-spacing: 20px;
   color: #999;
 }
 
