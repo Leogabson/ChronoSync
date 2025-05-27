@@ -14,6 +14,7 @@ ChronoSync is a modern, responsive time utility dashboard that combines:
 - Fully responsive for mobile and desktop
 
 ## 📂 How to Use
+1. View on live website `https://chrono-sync-omega.vercel.app`
 1. Clone or download the repo
 2. Open `index.html` in your browser
 3. Navigate using the top bar: Alarm | Clock | Timer | Stopwatch
@@ -25,4 +26,4 @@ ChronoSync is a modern, responsive time utility dashboard that combines:
 
 ---
 
-© 2025 by You. Licensed for educational/demo use.
+© 2025 by Dev-Leogabson. Licensed for educational/demo use.
